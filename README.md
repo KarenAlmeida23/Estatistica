@@ -1,7 +1,6 @@
 # Estatistica
 ## DATA SCIENCE: Análise Exploratória de Dados (EDA) na Ciência de Dados: Investigando a felicidade e sua relação com o suicídio
 <br>
-<br>
 Como projeto de conclusão do módulo de estatistica fornecido atraves da instituição ADA, o grupo foi designado para investigar as tendências de felicidade e suicídio nos anos de 2015 á 2019. Para isso, utilizamos conjuntos de dados de pesquisa relacionados a esses temas, que foram retirados de fontes confiáveis. O arquivo CSV que usamos sobre a felicidade se encontra <a href = "https://www.kaggle.com/datasets/unsdsn/world-happiness">aqui</a> e a de suicidio se encontra <a href = "https://www.kaggle.com/datasets/nourajo/suicide-rates-worldwide-20002019">aqui</a>
 <br>
 <br>
